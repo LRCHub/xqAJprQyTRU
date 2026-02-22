@@ -1,0 +1,152 @@
+{
+  "version": 1,
+  "base_track": "bliss",
+  "base_artist": "milet",
+  "createdAt": "2026-02-22T12:39:51.788548Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Soft Power - Vicarious Bliss Gutter Remix",
+      "artist": "Ladytron",
+      "has_synced": false,
+      "path": "select/01_Soft_Power_-_Vicarious_Bliss_Gutter_Remix_Ladytron.txt"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Soft Power (Vicarious Bliss Gutter Remix)",
+      "artist": "Ladytron",
+      "has_synced": false,
+      "path": "select/02_Soft_Power_(Vicarious_Bliss_Gutter_Remix)_Ladytron.txt"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Little Dirty Trip (Vicarious Bliss Remix)",
+      "artist": "Yuksek",
+      "has_synced": false,
+      "path": "select/03_Little_Dirty_Trip_(Vicarious_Bliss_Remix)_Yuksek.txt"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "Bliss",
+      "artist": "Mariah Carey",
+      "has_synced": true,
+      "path": "select/04_Bliss_Mariah_Carey.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "Bliss",
+      "artist": "Muse",
+      "has_synced": true,
+      "path": "select/05_Bliss_Muse.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "Lysergic Bliss",
+      "artist": "of Montreal",
+      "has_synced": true,
+      "path": "select/06_Lysergic_Bliss_of_Montreal.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "Oh the Bliss (Reinterpretation)",
+      "artist": "Hammock",
+      "has_synced": false,
+      "path": "select/07_Oh_the_Bliss_(Reinterpretation)_Hammock.txt"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "Miss The Bliss",
+      "artist": "Hot Chip",
+      "has_synced": true,
+      "path": "select/08_Miss_The_Bliss_Hot_Chip.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "Bliss",
+      "artist": "Yung Lean feat. FKA twigs",
+      "has_synced": true,
+      "path": "select/09_Bliss_Yung_Lean_feat._FKA_twigs.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "Bliss (feat. FKA twigs)",
+      "artist": "Yung Lean",
+      "has_synced": true,
+      "path": "select/10_Bliss_(feat._FKA_twigs)_Yung_Lean.lrc"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "Fairground (Rollo & Sister Bliss remix)",
+      "artist": "Simply Red",
+      "has_synced": false,
+      "path": "select/11_Fairground_(Rollo_&_Sister_Bliss_remix)_Simply_Red.txt"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "Kiss Me Bliss Me",
+      "artist": "DJ Flavours",
+      "has_synced": true,
+      "path": "select/12_Kiss_Me_Bliss_Me_DJ_Flavours.lrc"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "Kiss Me Bliss Me",
+      "artist": "2 Unlimited",
+      "has_synced": true,
+      "path": "select/13_Kiss_Me_Bliss_Me_2_Unlimited.lrc"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "Mass Destruction - P*Nut & Sister Bliss Mix",
+      "artist": "Faithless",
+      "has_synced": false,
+      "path": "select/14_Mass_Destruction_-_P_Nut_&_Sister_Bliss_Mix_Faithless.txt"
+    },
+    {
+      "id": "lrclib_15",
+      "source": "lrclib",
+      "title": "We Come 1 - Rollo & Sister Bliss Remix",
+      "artist": "Faithless",
+      "has_synced": true,
+      "path": "select/15_We_Come_1_-_Rollo_&_Sister_Bliss_Remix_Faithless.lrc"
+    },
+    {
+      "id": "lrclib_16",
+      "source": "lrclib",
+      "title": "We Come 1 (Rollo & Sister Bliss remix)",
+      "artist": "Faithless",
+      "has_synced": true,
+      "path": "select/16_We_Come_1_(Rollo_&_Sister_Bliss_remix)_Faithless.lrc"
+    },
+    {
+      "id": "lrclib_17",
+      "source": "lrclib",
+      "title": "Heaven Or Bliss",
+      "artist": "Cranes",
+      "has_synced": false,
+      "path": "select/17_Heaven_Or_Bliss_Cranes.txt"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "bliss",
+      "artist": "milet",
+      "has_synced": false,
+      "path": "select/pl_01_bliss_milet.txt"
+    }
+  ]
+}
